@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MusketPosition
-- - I'm a developer at Position Exchange
+- I'm a developer at Position Exchange
 - 👀 I’m interested in Smart Contract, Blockchain, POSI
 - 📫 musket.gun@position.exchange
 
